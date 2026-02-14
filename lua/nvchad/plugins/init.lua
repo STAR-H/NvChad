@@ -10,6 +10,7 @@ return {
 
   {
     "nvchad/ui",
+    commit = "b7c656064ec",
     lazy = false,
     config = function()
       require "nvchad"
